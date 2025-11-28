@@ -2,7 +2,7 @@
 
 ## how to use
 # chmod +x download_hunyuan_models.sh
-# ./download_hunyua_models.sh /data/ai/ComfyUI // path to ComfyUi directory
+# ./download_hunyuan_models.sh /data/ai/ComfyUI // path to ComfyUi directory
 
 # Stop on error (optional)
 set -e
